@@ -3,7 +3,7 @@
 	"description": "CloneBot",
 	"repository": "https://github.com/MsGsuite/CloneBot",
 	"keywords": ["Gclone","TG"],
-	"repository": "https://github.com/MsGsuite/CloneBot",
+	"repository": "https://github.com/r7d4a0p/CloneBot",
         "website": "https://t.me/msgsuitechat",
         "success_url": "https://github.com/MsGsuite/CloneBot/blob/master/README.md",
 	"env": {
